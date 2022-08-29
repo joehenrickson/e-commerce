@@ -9,8 +9,7 @@ The application contained within is a database and functional backend.
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [License](#license)
-* [Documentation](#documentation)
+* [Contact](#contact)
 
 
 ## Installation
@@ -33,3 +32,12 @@ Run the following commands;
 
 ##VIDEO LINK: 
 https://youtu.be/5qr6ufSEESs
+
+
+## Contributing
+
+ [Joe Henrickson](https://github.com/joehenrickson)
+
+## Questions
+
+✉️ Contact me with any questions: [email](mailto:joehenrickson@gmail.com) , [GitHub](https://github.com/joehenrickson)<br />
